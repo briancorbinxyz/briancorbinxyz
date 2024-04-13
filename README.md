@@ -4,4 +4,4 @@ I'm Brian (aka TheCodeInfluencer) - A lifetime tinkerer and creative and enterpr
 
 
 ## Blogs
-- **TheCodeInfluencer** - “I write because I don’t know what I think until I read what I say.” - A Tech Blog covering various topics in coding, engineering, and engineering management (my views are, obviously, my own)
+- **TheCodeInfluencer** - [briancorbinxyz.medium.com](https://briancorbinxyz.medium.com) “I write because I don’t know what I think until I read what I say.” - A Tech Blog covering various topics in coding, engineering, and engineering management (my views are, obviously, my own)
