@@ -7,7 +7,7 @@ I'm Brian - A lifetime tinkerer and creative and enterprising Software Solutions
 
 <div style="width: 100%">
     <video autoplay muted loop id="myVideo" style="position:absolute; min-width: 80%; min-height: 80%; width: auto; height: auto;" playsinline>
-        <source src="BLAC INTRO.mp4" type="video/mp4">
+        <source src="BLAC INTRO_720.mp4" type="video/mp4">
     </video>
 </div>
 
