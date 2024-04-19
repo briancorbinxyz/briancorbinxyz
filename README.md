@@ -16,7 +16,7 @@ Ask Maya Angelou:
 - **TheCodeInfluencer** - [briancorbinxyz.medium.com](https://briancorbinxyz.medium.com): *“I write because I don’t know what I think until I read what I say.”* - A Tech Blog covering various topics in coding, engineering, and engineering management (my views are, obviously, my own)
 
 ### Digital Garden
-- **The Life of Brian Corbin** - [thelifeof.briancorbin.xyz](https://thelifeof.briancorbin.xyz): Explore multipotentiality with me in my [digital garden](https://maggieappleton.com/garden-history) / "Bamboo Garden" / personal wiki - a (sometimes chaotic) collection of notes, articles, letters, and thoughts.
+- **The Life of Brian Corbin** - [thelifeof.briancorbin.xyz](https://thelifeof.briancorbin.xyz): Explore multipotentiality with me and "Learn Out Loud" (aka #learninpublic) in my [digital garden](https://maggieappleton.com/garden-history) / "Bamboo Garden" / personal wiki - a (sometimes chaotic) collection of notes, articles, letters, and thoughts.
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣴⡶⠶⠖⠚⠛⠛⠛⠛⠛⠛⠳⠶⢶⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀
