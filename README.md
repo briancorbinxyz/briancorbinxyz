@@ -1,6 +1,6 @@
 # briancorbinxyz
  
-I'm Brian - A lifetime innovator, tinkerer, and creative software engineer, lead, and product owner with extensive experience across the software industry and finance for investment banking (+plenty more coding and hacking for fun!). My love for technology got its start after tinkering with code in BASIC as a child in the UK on a Commodore 64, Amstrad CPC, and RM Nimbus.
+I'm Brian - A lifetime creator, tinkerer, and software engineer, l with extensive experience across the software industry and finance for investment banking (+plenty more coding and hacking for fun!). My love for technology got its start after tinkering with code in BASIC as a child in the UK on a Commodore 64, Amstrad CPC, and RM Nimbus.
 
 ### Mission
 Ask Maya Angelou:
