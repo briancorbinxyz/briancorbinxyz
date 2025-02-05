@@ -12,8 +12,9 @@ Ask Maya Angelou:
     </video>
 </div>
 
-### Blogs
-- **The Sympathetic Engineer** - [briancorbinxyz.medium.com](https://briancorbinxyz.medium.com): *“I write because I don’t know what I think until I read what I say.”* - A Tech Blog covering various topics in coding, engineering, and engineering management (my views are, obviously, my own)
-
 ### Digital Garden
-- **Sympathetic Engineering** - [thelifeof.briancorbin.xyz](https://thelifeof.briancorbin.xyz): Explore multipotentiality with me and "Learn Out Loud" (aka #learninpublic) in my Sympathetic Engineering [digital garden](https://maggieappleton.com/garden-history) / "Bamboo Garden" / personal wiki - a (sometimes chaotic) collection of notes, articles, letters, and thoughts.
+- **Sympathetic Engineering** - [thelifeof.briancorbin.xyz](https://thelifeof.briancorbin.xyz): Explore multipotentiality with me and "Learn Out Loud" (aka #learninpublic) in my Sympathetic Engineering [digital garden](https://maggieappleton.com/garden-history) / personal wiki - a (sometimes chaotic) collection of notes, articles, letters, and thoughts.
+
+### Blogs
+- **The Sympathetic Engineer** - [briancorbinxyz.medium.com](https://briancorbinxyz.medium.com): *“I write because I don’t know what I think until I read what I say.”* - Tech Blog covering various curated topics in coding, engineering, and engineering management (my views are, obviously, my own)
+
